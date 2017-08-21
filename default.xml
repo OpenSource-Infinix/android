@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <remote fetch=".." name="infinix"/>
-   <default remote="infinx" revision="remotes/origin/X556N">
-  
-   <project name="OpenSource-Infinix/android_abi" path="abi">
+  <remote fetch=".." name="infinix"/>
+  <default remote="infinx" revision="remotes/origin/X556N"/>
+  <project name="OpenSource-Infinix/android_abi" path="abi"/>
 </manifest>
