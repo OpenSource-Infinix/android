@@ -1,13 +1,10 @@
 # Compiling and Flashing
-</br>
-1.Download the source code package
-Download the package X556_OPEN_SOURCE_DEV.tar.gz to the Linux server.
-
-2.Uncompressing
- Enter the following command in the root directory of the X556_OPEN_SOURCE_DEV.tar.gz
- ```shell
-$ tar xzvf X556_OPEN_SOURCE_DEV.tar.gz
+1.Download the source code, Repo sync all code with default.xml
+```shell
+repo init -u git://github.com/OpenSource-Infinix/android.git -b X556N
+repo sync
 ```
+
 3.Build version </br>
 **[Prepare the environment]**
 ```shell
