@@ -5,7 +5,7 @@ repo init -u git://github.com/OpenSource-Infinix/android.git -b X556N
 repo sync
 ```
 
-3.Build version </br>
+2.Build version </br>
 **[Prepare the environment]**
 ```shell
 $ source build/envsetup.sh
@@ -28,7 +28,7 @@ $ source mbldenv.sh
 $ make -j24 2>&1 | tee build.log
 ```
 
-4.Flashing
+3.Flashing
 **[Prepare]
 Enter the developer mode, select OEM unlocking and USB debugging
 [Enter fastboot mode]
