@@ -7,12 +7,12 @@
   <project name="OpenSource-Infinix/android_bionic" path="bionic"/>
   <project name="OpenSource-Infinix/android_bootable" path="bootable"/>
   <project name="OpenSource-Infinix/android_build" path="build"/>
-  <project name="penSource-Infinix/android_cts"    path="cts"/>
-  <project name="penSource-Infinix/android_dalvik"    path="dalvik"/> 
-  <project name="penSource-Infinix/android_developers"    path="developers"/>
-  <project name="penSource-Infinix/android_development"    path="development"/>
-  <project name="penSource-Infinix/android_device"    path="device"/>
-  <project name="penSource-Infinix/android_docs"    path="docs"/> 
+  <project name="OpenSource-Infinix/android_cts"    path="cts"/>
+  <project name="OpenSource-Infinix/android_dalvik"    path="dalvik"/> 
+  <project name="OpenSource-Infinix/android_developers"    path="developers"/>
+  <project name="OpenSource-Infinix/android_development"    path="development"/>
+  <project name="OpenSource-Infinix/android_device"    path="device"/>
+  <project name="OpenSource-Infinix/android_docs"    path="docs"/> 
  
  
  
