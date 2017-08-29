@@ -14,7 +14,7 @@
   <project name="OpenSource-Infinix/android_device"    path="device"/>
   <project name="OpenSource-Infinix/android_docs"    path="docs"/> 
   <project name="OpenSource-Infinix/android_external_one"    path="external"/>
-  <project name="OpenSource-Infinix/android_external_two"    path="external"/>
+  <project name="OpenSource-Infinix/android_external_clang"    path="external/clang"/>
 
   
  
