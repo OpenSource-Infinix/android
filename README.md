@@ -3,6 +3,7 @@
 ```shell
 repo init -u git://github.com/OpenSource-Infinix/android.git -b X556N
 repo sync
+./tidyDoc.sh
 ```
 
 2.Build version </br>
