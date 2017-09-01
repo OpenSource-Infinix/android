@@ -13,13 +13,43 @@
   <project name="OpenSource-Infinix/android_development"    path="development"/>
   <project name="OpenSource-Infinix/android_device"    path="device"/>
   <project name="OpenSource-Infinix/android_docs"    path="docs"/> 
-  <project name="OpenSource-Infinix/android_external_one"    path="external"/>
+  <project name="OpenSource-Infinix/android_external"    path="external"/>
+  <project name="OpenSource-Infinix/android_external_one"    path="externalOne"/>
+  <project name="OpenSource-Infinix/android_external_two"    path="externalTwo"/>
+  <project name="OpenSource-Infinix/android_external_three"    path="externalThree"/>
   <project name="OpenSource-Infinix/android_external_clang"    path="external/clang"/>
-
-  
- 
- 
- 
-
-  
+  <project name="OpenSource-Infinix/android_external_conscrypt"    path="external/conscrypt"/>
+  <project name="OpenSource-Infinix/android_external_compiler-rt"    path="external/compiler-rt"/>
+  <project name="OpenSource-Infinix/android_external_cmockery"    path="external/cmockery"/>
+  <project name="OpenSource-Infinix/android_frameworks"    path="frameworks"/>  
+  <project name="OpenSource-Infinix/android_frameworks_base"    path="frameworks/base"/> 
+  <project name="OpenSource-Infinix/android_frameworks_base_one"    path="frameworksBaseOne"/> 
+  <project name="OpenSource-Infinix/android_hardware"    path="hardware"/>
+  <project name="OpenSource-Infinix/android_libcore"    path="libcore"/>
+  <project name="OpenSource-Infinix/android_libnativehelper"    path="libnativehelper"/>
+  <project name="OpenSource-Infinix/android_ndk"    path="ndk"/>
+  <project name="OpenSource-Infinix/android_packages"    path="packages"/>
+  <project name="OpenSource-Infinix/android_kernel-3.18"    path="kernel-3.18"/>
+  <project name="OpenSource-Infinix/android_pdk"    path="pdk"/>
+  <project name="OpenSource-Infinix/android_platform_testing"    path="platform_testing"/>
+  <project name="OpenSource-Infinix/android_sdk"    path="sdk"/>
+  <project name="OpenSource-Infinix/android_system"    path="system"/>
+  <project name="OpenSource-Infinix/android_toolchain"    path="toolchain"/>
+  <project name="OpenSource-Infinix/android_prebuilts"    path="prebuilts"/>
+  <project name="OpenSource-Infinix/android_prebuilts_clang"    path="prebuilts/clang"/>
+  <project name="OpenSource-Infinix/android_prebuilts_clang_host"    path="prebuilts/clang/host"/>
+  <project name="OpenSource-Infinix/android_prebuilts_one"    path="prebuiltsOne"/>
+  <project name="OpenSource-Infinix/android_prebuilts_two"    path="prebuiltsTwo"/>
+  <project name="OpenSource-Infinix/android_prebuilts_three"  path="prebuiltsThree"/>
+  <project name="OpenSource-Infinix/android_prebuilts_four"   path="prebuiltsFour"/>
+  <project name="OpenSource-Infinix/android_prebuilts_five"   path="prebuiltsFive"/>
+  <project name="OpenSource-Infinix/android_prebuilts_gcc"    path="prebuilts/gcc"/>
+  <project name="OpenSource-Infinix/android_prebuilts_gcc_linux-x86_host"    path="prebuilts/gcc/linux-x86"/>  
+  <project name="OpenSource-Infinix/android_prebuilts_ndk"    path="prebuilts/ndk"/>
+  <project name="OpenSource-Infinix/android_prebuilts_ndk_current"    path="prebuilts/ndk/current"/>
+  <project name="OpenSource-Infinix/android_prebuilts_tools"    path="prebuilts/tools"/>
+  <project name="OpenSource-Infinix/android_prebuilts_tools_one"    path="prebuiltsToolsOne"/>
+  <project name="OpenSource-Infinix/android_tools"    path="tools"/>
+  <project name="OpenSource-Infinix/android_vendor"    path="vendor"/>
+  <project name="OpenSource-Infinix/android_vendor_mediatek_proprietary_bootable_lk_dev_logo"    path="vendor/mediatek/proprietary/bootable/lk/dev/logo"/>
 </manifest>
