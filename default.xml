@@ -51,7 +51,7 @@
   <project name="OpenSource-Infinix/android_prebuilts_tools_one"    path="prebuiltsToolsOne"/>
   <project name="OpenSource-Infinix/android_tools"    path="tools"/>
   <project name="OpenSource-Infinix/android_vendor"    path="vendor"/>
-  <project name="OpenSource-Infinix/android_vendor_mediatek_proprietary_bootable_lk_dev_logo"    path="vendor/mediatek/proprietary/bootable/lk/dev/logo"/>
+  <project name="OpenSource-Infinix/android_vendor_mediatek_proprietary_bootable_lk_dev_logo"    path="vendor/mediatek/proprietary/bootloader/lk/dev/log"/>
   <project name="OpenSource-Infinix/android_common"    path="android_common">
    <copyfile dest="Makefile"  src="Makefile"/>
    <copyfile dest="mbldenv.sh"  src="mbldenv.sh"/>
